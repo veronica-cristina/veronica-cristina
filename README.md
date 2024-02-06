@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🫀
 
-Meu nome é Veronica Cristins Prestes Silva
+Meu nome é Veronica Cristina Prestes Silva
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguaguem JavaScript
